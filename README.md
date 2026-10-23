@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Total-War-Three-Kingdoms-Save-Manager` · Updated: 2026-10-07
+`Total-War-Three-Kingdoms-Save-Manager` · Updated: 2026-10-24
 
 **Tags:** `total-war-three-kingdoms` `save-manager` `strategy` `historical`
